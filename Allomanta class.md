@@ -1,18 +1,6 @@
 - [[Allomancia]]
 - 1. szinten válassz a 8 allomanta subclassból
 
-## Teaser
-
-The Allomancer quickly swallows metal from a vial and burns it to fly across the rooftops. The Feruchemist thrusts a superheated palm through a melting wall as he releases his stored heat in one powerful burst. The lone Steel Inquisitor stalks his prey through the city slums with supernatural abilities that rival the other Metallic Arts. This chapter introduces three new class options with over twenty-four new subclasses and a new Fighter archetype called the Hazekiller.
-
--   **Allomancers** ingest and burn metal in their bodies to fuel their martial techniques.
--   **Feruchemists** store attributes for later use, which can be released in a powerful burst.
--   **Hemalurgists** steal power from the other Metallic Arts through a deadly sacrifice.
-
-These new classes use a special interchangeable system called subclass levels. For most Allomancers and Feruchemists, subclasses is as straightforward as the traditional D&D system. Hemalurgists, Mistborn Allomancers, and Keeper Feruchemists have special abilities that let them gain multiple types of subclass levels. Additionally, Allomancer and Feruchemist proficiencies are granted by subclasses instead of the class because each the subclasses are so diverse.
-
-This book also introduces the Hazekiller Archetype, who fighters that cannot practice the Metallic Arts, but are specially trained in defeating those who can.
-
 ## Allomancer
 
 Perched on an iron spire against the full moon, a figure peers into the darkness of his city, catching quick glimpses of people and their conversations below.

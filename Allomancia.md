@@ -4,11 +4,6 @@
 | Külső hatású                          |  **Acél** ([[Coinshot]]) Eltol más fémeket tőled(Dex)                      |  **Vas** ([[Lurcher]]) Magadhoz húzzol körülötted lévő tárgyakat(Str)|   | **Cink** ([[Rioter]]) Felerősíti mások bizonyos érzelmét(Cha)|  **Sárgaréz** ([[Soother]]) Elnyomja mások bizonyos érzelemit(Cha)   | Külső hatású                                 |
 | Belső hatású                          |  **Ónötvözet** ([[Thug]]) Felerősíti a fizikai képességeidet(Con)          |  **Ón** ([[Tineye]]) Felerősíti az érzékszerveidet(Dex)              |   | **Réz** ([[Smoker]]) Elrejti az allomantikus hullámokat(Int) |  **Bronz** ([[Seeker]]) Hallani tudod az allomantikus hullámokat(Wis)| Belső hatású                                 |
 
-
-|Coinshot/Lurcher |  Rioter/Soother  |        Thug/Tineye        |  Smoker   |     Seeker       |
-|-----------------|------------------|---------------------------|-----------|------------------|
-|5 használat/fiola|10 használat/fiola|1 combat vagy 15 perc/fiola|2 óra/fiola|15 használat/fiola|
-
 ## Weight classes
 
 Some subclasses of the Mistborn magic system rely on weight. For example, Coinshot Allomancers who push on metal objects use the weight difference between the pusher and the object to determine the strength of their power.
