@@ -1,9 +1,9 @@
 ## Félvér karakter készítése
 
 #### Class választás
-- [[Allomanta class]] (ezt kell választani)
-- [[Inkvizítor class]]
-- [[Ködszerzet class]]
+- [Allomanta class](./Allomanta%20class.md) (ezt kell választani)
+- Inkvizítor class
+- Ködszerzet class
 
 #### Félvér tulajdonságok
 It’s hard to make generalizations about humans, but your human character has these traits.

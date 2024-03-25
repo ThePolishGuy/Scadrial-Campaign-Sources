@@ -1,5 +1,5 @@
-- [[Allomancia]]
-- 1. szinten válassz a 8 allomanta subclassból
+- [Allomancia](./Allomancia.md)
+- <p>1. szinten válassz a 8 allomanta subclassból</p>
 
 ## Allomancer
 
@@ -33,18 +33,18 @@ You can make an Allomancer quickly by following these suggestions. First, put yo
 
 ## Table
 
-| Level | Proficiency Bonus | Maximum Metal Charges | Features                                            |
-|:-----:|:-----------------:|:---------------------:|-----------------------------------------------------|
-|  1st  |         +2        |           4           | Allomancy, Allomantic Focus                         |
-|  2nd  |         +2        |           4           | Allomancy Style                                     |
-|  3rd  |         +2        |           5           |                                                     |
-|  4th  |         +2        |           5           | Ability Score Improvement                           |
-|  5th  |         +3        |           6           | Extra Attack                                        |
-|  6th  |         +3        |           6           |                                                     |
-|  7th  |         +3        |           7           |                                                     |
-|  8th  |         +3        |           7           | Ability Score Improvement                           |
-|  9th  |         +4        |           8           | Metal Reserve                                       |
-|  10th |         +4        |           8           | Rapid Recharge                                      |
+| Level | Proficiency Bonus | Maximum Metal Charges | Features                              |
+|:-----:|:-----------------:|:---------------------:|---------------------------------------|
+|  1st  |         +2        |           4           | Allomancy, Allomantic Focus           |
+|  2nd  |         +2        |           4           | [Allomancy Style](#allomancy-style)   |
+|  3rd  |         +2        |           5           |                                       |
+|  4th  |         +2        |           5           | Ability Score Improvement             |
+|  5th  |         +3        |           6           | Extra Attack                          |
+|  6th  |         +3        |           6           |                                       |
+|  7th  |         +3        |           7           |                                       |
+|  8th  |         +3        |           7           | Ability Score Improvement             |
+|  9th  |         +4        |           8           | Metal Reserve                         |
+|  10th |         +4        |           8           | Rapid Recharge                        |
 
 ## Handbook
 
@@ -94,7 +94,7 @@ If you have charges remaining at the end of a long rest, the metal poisons you a
 
 ## Allomancy Style
 
-At 3rd level, you develop a particular style of Allomancy as your specialty. Choose an Allomancy Style from the list of optional features. You can't take the same option more than once, even if you get to choose again.
+At 2rd level, you develop a particular style of Allomancy as your specialty. Choose an Allomancy Style from the list of optional features. You can't take the same option more than once, even if you get to choose again.
 
 #### Blade Flurry
 
@@ -136,17 +136,16 @@ When you gain a level in Allomancy, you gain a level in your chosen Focus. If yo
 
 Of the sixteen standard metals and three god metals, only ten are fully developed into subclasses, which are presented in this section organized into their pairs with their counterpart metals. The remaining metals are considered impractical for a character, but some of their features are detailed in the Optional Focuses section at the end of the Allomancer class.
 
-| Focus     | Metal     | Description                                                  | Primary Ability           | Saving Throw Proficiencies | Bonus Armor and Weapon Proficiencies                                  |
-|-----------|-----------|--------------------------------------------------------------|---------------------------|----------------------------|-----------------------------------------------------------------------|
-| [[Coinshot]]  | Steel     | Pushes on metals to take flight and launch deadly shrapnel   | Dexterity                 | Strength and Dexterity     | Dueling canes, hand crossbows, longswords, shortswords                |
-| [[Lurcher]]   | Iron      | Pulls on metals in careful, measured lurches                 | Strength                  | Strength and Dexterity     | Medium armor, heavy armor, shields, martial weapons                   |
-| [[Thug]] | Pewter    | Draws on a large reserve of strength and power               | Strength or Dexterity     | Strength and Constitution  | Medium armor, shields, martial weapons                                |
-| Pulser    | Cadmium   | Slows the passage of time to entrap and disable enemies      | Strength and Intelligence | Wisdom and Intelligence    | Medium armor, heavy armor, shields, martial weapons                   |
-| [[Rioter]]    | Zinc      | Riots emotions of others to disrupt and enrage               | Charisma                  | Wisdom and Charisma        | Dueling canes, hand crossbows, longswords, rapiers, shortswords       |
-| [[Seeker]]    | Bronze    | Detects the presence of Allomancy as a relentless hunter     | Wisdom                    | Strength and Wisdom        | Medium armor, shields, martial weapons                                |
-| [[Smoker]]    | Copper    | Masks Allomantic signatures as a protector of allies         | Strength and Charisma     | Wisdom and Charisma        | Medium armor, heavy armor, shields, martial weapons                   |
-| Slider    | Bendalloy | Squeezes in extra time for concealment and retaliation       | Dexterity and Wisdom      | Dexterity and Intelligence | Hand crossbows, longswords, rapiers, scimitars, shortswords           |
-| [[Soother]]   | Brass     | Soothes emotions of targets to calm and incapacitate threats | Charisma                  | Constitution and Charisma  | Medium armor, shields, martial weapons                                |
-| [[Tineye]]    | Tin       | Heightens senses to avoid danger and gain the upper hand     | Dexterity and Wisdom      | Dexterity and Intelligence | Medium armor, shortswords, scimitars, longswords, rapiers             |
-| Mistborn  | All Types | Wields the power of every Allomantic Focus                   | Any                       | Dexterity and Charisma     | Mistcloaks, battleaxes, hand crossbows, pikes, shortswords, scimitars |
-
+| Focus                     | Metal     | Description                                                  | Primary Ability           | Saving Throw Proficiencies | Bonus Armor and Weapon Proficiencies                                  |
+|---------------------------|-----------|--------------------------------------------------------------|---------------------------|----------------------------|-----------------------------------------------------------------------|
+| [Coinshot](./Coinshot.md) | Steel     | Pushes on metals to take flight and launch deadly shrapnel   | Dexterity                 | Strength and Dexterity     | Dueling canes, hand crossbows, longswords, shortswords                |
+| [Lurcher](./Lurcher.md)   | Iron      | Pulls on metals in careful, measured lurches                 | Strength                  | Strength and Dexterity     | Medium armor, heavy armor, shields, martial weapons                   |
+| [Thug](./Thug.md)         | Pewter    | Draws on a large reserve of strength and power               | Strength or Dexterity     | Strength and Constitution  | Medium armor, shields, martial weapons                                |
+| Pulser                    | Cadmium   | Slows the passage of time to entrap and disable enemies      | Strength and Intelligence | Wisdom and Intelligence    | Medium armor, heavy armor, shields, martial weapons                   |
+| [Rioter](./Rioter.md)     | Zinc      | Riots emotions of others to disrupt and enrage               | Charisma                  | Wisdom and Charisma        | Dueling canes, hand crossbows, longswords, rapiers, shortswords       |
+| [Seeker](./Seeker.md)     | Bronze    | Detects the presence of Allomancy as a relentless hunter     | Wisdom                    | Strength and Wisdom        | Medium armor, shields, martial weapons                                |
+| [Smoker](./Smoker.md)     | Copper    | Masks Allomantic signatures as a protector of allies         | Strength and Charisma     | Wisdom and Charisma        | Medium armor, heavy armor, shields, martial weapons                   |
+| Slider                    | Bendalloy | Squeezes in extra time for concealment and retaliation       | Dexterity and Wisdom      | Dexterity and Intelligence | Hand crossbows, longswords, rapiers, scimitars, shortswords           |
+| [Soother](./Soother.md)   | Brass     | Soothes emotions of targets to calm and incapacitate threats | Charisma                  | Constitution and Charisma  | Medium armor, shields, martial weapons                                |
+| [Tineye](./Tineye.md)     | Tin       | Heightens senses to avoid danger and gain the upper hand     | Dexterity and Wisdom      | Dexterity and Intelligence | Medium armor, shortswords, scimitars, longswords, rapiers             |
+| Mistborn                  | All Types | Wields the power of every Allomantic Focus                   | Any                       | Dexterity and Charisma     | Mistcloaks, battleaxes, hand crossbows, pikes, shortswords, scimitars |
