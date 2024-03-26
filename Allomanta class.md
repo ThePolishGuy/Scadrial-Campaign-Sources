@@ -94,7 +94,7 @@ If you have charges remaining at the end of a long rest, the metal poisons you a
 
 ## Allomancy Style
 
-At 2rd level, you develop a particular style of Allomancy as your specialty. Choose an Allomancy Style from the list of optional features. You can't take the same option more than once, even if you get to choose again.
+At 2nd level, you develop a particular style of Allomancy as your specialty. Choose an Allomancy Style from the list of optional features. You can't take the same option more than once, even if you get to choose again.
 
 #### Blade Flurry
 
